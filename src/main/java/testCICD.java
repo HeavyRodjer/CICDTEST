@@ -35,7 +35,5 @@ public class testCICD {
         Assert.assertEquals(test3,test);
 
 
-
-
     }
 }
